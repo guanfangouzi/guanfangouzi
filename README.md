@@ -4,4 +4,4 @@
 
 - 🔭 方向：内容创作、写作自动化与工作流工具
 - 🛠️ 常用：Git / GitHub Desktop、Python、Obsidian
-- 📫 联系：435157546@qq.com
+- 📫 联系：435437546@qq.com
